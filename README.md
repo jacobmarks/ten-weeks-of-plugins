@@ -16,7 +16,18 @@ This repo contains a curated collection of existing FiftyOne Plugins, ideas for 
 
 ## 🔌💡 Plugin Ideas
 
-
+- 🔧 Plugin-builder
+- 🚀 Getting Started Workflow
+- 📥 Plugin Installer
+- 🎥 YouTube video player
+- 🏷️ Label Importer
+- 🌊 Drift Detection
+- ❗ Outlier Detection
+- 🏃 Active Learning
+- 📝 Text Label Visualizer
+- 🖍️ Pre-labeling
+- 🔑 Keyword Search
+- 🔍 Hybrid (semantic + keyword) search
 
 
 ## 📚 Resources
@@ -30,18 +41,17 @@ This repo contains a curated collection of existing FiftyOne Plugins, ideas for 
 
 ## 🚀 Contributing
 
-Contributions of any kind are welcome! Check out the [contributions guide](CONTRIBUTING.md)
-for instructions.
+Contributions of any kind are welcome!
 
 For example, contributions can include any of the following:
 
-🖋️ Spelling, grammar, or code corrections
+- 🖋️ Spelling, grammar, or code corrections
 
-🛠️ Improvements to the structure or layout of the repo itself
+- 🛠️ Improvements to the structure or layout of the repo itself
 
-💡 Ideas for future plugins you'd like to see, and of course
+- 💡 Ideas for future plugins you'd like to see, and of course
 
-🧩 Your own plugins 💪
+- 🧩 Your own plugins 💪
 
 ### 🚀 How to Start Contributing
 Contributing is simple.
