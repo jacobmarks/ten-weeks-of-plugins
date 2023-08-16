@@ -6,7 +6,11 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 
 ## Table of Contents
 
+**Already Happened**
 - [Week 0](#week-0)
+
+
+**Yet to Happen**
 - [Week 1](#week-1)
 - [Week 2](#week-2)
 - [Week 3](#week-3)
@@ -18,7 +22,7 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 9](#week-9)
 - [Week 10](#week-10)
 
-  
+**Additional**
 - [Plugin Ideas](#-plugin-ideas)
 - [Resources](#-resources)
 
@@ -26,17 +30,24 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 
 This section consists of plugins that I built before the 10-weeks-of-plugins journey began. Consider it an added bonus!
 
-- 🎨 AI Art Gallery
 - 🌩️ Common Image Issues
 - 📈 Concept Interpolation
 
 ## Week 1
 
+- 🎨 AI Art Gallery
+
 ## Week 2
+
+- 🎭 Zero-shot text-based instance segmentation
 
 ## Week 3
 
+- 🕸️ Directed Acyclic Graph for Data Lineage Management
+
 ## Week 4
+
+-  🌌 Traversing Embedding Space
 
 ## Week 5
 
