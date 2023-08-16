@@ -13,6 +13,9 @@ This repo contains a curated collection of existing FiftyOne Plugins, ideas for 
 
 ## 🔌📦 Awesome Plugins
 
+- [I/O](https://github.com/voxel51/fiftyone-plugins/blob/main/plugins/io/README.md): A collection of import/export utilities
+- [Python View](https://github.com/voxel51/fiftyone-plugins/blob/main/plugins/python-view/README.md): Create a `DatasetView` using Python within the FiftyOne App
+- [VoxelGPT](https://github.com/voxel51/voxelgpt): An LLM-powered assistant for querying your dataset and the FiftyOne docs
 
 ## 🔌💡 Plugin Ideas
 
