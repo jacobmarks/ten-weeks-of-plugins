@@ -1,23 +1,56 @@
-# Awesome Fiftyone Plugins [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jacobmarks/awesome-fiftyone-plugins)
+# 10 Weeks of Plugins
 
-🚀🚀🚀 Welcome to the home for awesome FiftyOne Plugins 🚀🚀🚀
+🚀🚀🚀 Welcome to my journey of building FiftyOne Plugins for 10 weeks! 🚀🚀🚀
 
-This repo contains a curated collection of existing FiftyOne Plugins, ideas for future plugins, and resources to help you on your journey.
+This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built or plan to build
 
 ## Table of Contents
 
-- [Existing plugins](#-awesome-plugins)
+- [Week 0](#week-0)
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Week 3](#week-3)
+- [Week 4](#week-4)
+- [Week 5](#week-5)
+- [Week 6](#week-6)
+- [Week 7](#week-7)
+- [Week 8](#week-8)
+- [Week 9](#week-9)
+- [Week 10](#week-10)
+
+  
 - [Plugin Ideas](#-plugin-ideas)
 - [Resources](#-resources)
-- [Contributing](#-contributing)
 
-## 🔌📦 Awesome Plugins
+## Week 0
 
-- [I/O](https://github.com/voxel51/fiftyone-plugins/blob/main/plugins/io/README.md): A collection of import/export utilities
-- [Python View](https://github.com/voxel51/fiftyone-plugins/blob/main/plugins/python-view/README.md): Create a `DatasetView` using Python within the FiftyOne App
-- [VoxelGPT](https://github.com/voxel51/voxelgpt): An LLM-powered assistant for querying your dataset and the FiftyOne docs
+This section consists of plugins that I built before the 10-weeks-of-plugins journey began. Consider it an added bonus!
 
-## 🔌💡 Plugin Ideas
+- 🎨 AI Art Gallery
+- 🌩️ Common Image Issues
+- 📈 Concept Interpolation
+
+## Week 1
+
+## Week 2
+
+## Week 3
+
+## Week 4
+
+## Week 5
+
+## Week 6
+
+## Week 7
+
+## Week 8
+
+## Week 9
+
+## Week 10
+
+## 🔌💡 Additional Plugin Ideas
 
 - 🔧 Plugin-builder
 - 🚀 Getting Started Workflow
@@ -33,6 +66,8 @@ This repo contains a curated collection of existing FiftyOne Plugins, ideas for 
 - 🔍 Hybrid (semantic + keyword) search
 
 
+**Contribute 💡 Ideas** : Feel free to submit a PR or Issue, or message me directly if you have more ideas for plugins!
+
 ## 📚 Resources
 
 - [FiftyOne Plugins Documentation](https://docs.voxel51.com/plugins/index.html)
@@ -40,26 +75,3 @@ This repo contains a curated collection of existing FiftyOne Plugins, ideas for 
   - [Typescript Operators API Docs](https://docs.voxel51.com/plugins/api/fiftyone.operators.html#fiftyone.operators)
 - [FiftyOne Plugins Repo](https://github.com/voxel51/fiftyone-plugins)
 - [Plugins Channel](https://fiftyone-users.slack.com/archives/plugins) in [![FiftyOne Community Slack](https://img.shields.io/badge/FiftyOne%20Community%20Slack-4A154B?logo=slack&logoColor=white)](https://slack.voxel51.com)
-
-
-## 🚀 Contributing
-
-Contributions of any kind are welcome!
-
-For example, contributions can include any of the following:
-
-- 🖋️ Spelling, grammar, or code corrections
-
-- 🛠️ Improvements to the structure or layout of the repo itself
-
-- 💡 Ideas for future plugins you'd like to see, and of course
-
-- 🧩 Your own plugins 💪
-
-### 🚀 How to Start Contributing
-Contributing is simple.
-1. Fork the repository.
-2. Make your improvements or additions in your forked repository.
-3. Submit a pull request detailing the changes you've made.
-
-If it's approved, it will be merged into the main repository!
