@@ -63,6 +63,7 @@ This section consists of plugins that I built before the 10-weeks-of-plugins jou
 
 ## 🔌💡 Additional Plugin Ideas
 
+- 🪞 Image deduplication
 - 🔧 Plugin-builder
 - 🚀 Getting Started Workflow
 - 📥 Plugin Installer
