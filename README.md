@@ -73,6 +73,7 @@ October 23, 2023
 
 ## 🔌💡 Additional Plugin Ideas
 
+- ❔ Visual Question Answering!
 - 🪞 Image deduplication
 - 🔧 Plugin-builder
 - 🚀 Getting Started Workflow
