@@ -34,32 +34,42 @@ This section consists of plugins that I built before the 10-weeks-of-plugins jou
 - 📈 [Concept Interpolation](https://github.com/jacobmarks/concept-interpolation)
 
 ## Week 1
+August 21, 2023
 
 - 🎨 AI Art Gallery
 
 ## Week 2
+August 28, 2023
 
 - 🎭 Zero-shot text-based instance segmentation
 
 ## Week 3
+September 04, 2023
 
 - 🕸️ Directed Acyclic Graph for Data Lineage Management
 
 ## Week 4
+September 11, 2023
 
 -  🌌 Traversing Embedding Space
 
 ## Week 5
+September 18, 2023
 
 ## Week 6
+September 25, 2023
 
 ## Week 7
+October 02, 2023
 
 ## Week 8
+October 09, 2023
 
 ## Week 9
+October 16, 2023
 
 ## Week 10
+October 23, 2023
 
 ## 🔌💡 Additional Plugin Ideas
 
