@@ -40,52 +40,49 @@ August 21, 2023
 
 ## Week 2
 August 28, 2023
-
-- 🎭 Zero-shot text-based instance segmentation
+- ❓ Visual Question Answering
 
 ## Week 3
 September 04, 2023
-
-- 🕸️ Directed Acyclic Graph for Data Lineage Management
+- 🎥 YouTube video player
 
 ## Week 4
 September 11, 2023
-
--  🌌 Traversing Embedding Space
+- 🪞 Image deduplication
 
 ## Week 5
 September 18, 2023
+- 🎭 Zero-shot instance segmentation
 
 ## Week 6
 September 25, 2023
+- 🔑 Keyword Search
 
 ## Week 7
 October 02, 2023
+-  🌌 Traversing Embedding Space
 
 ## Week 8
 October 09, 2023
+- 🔧 Plugin-builder
 
 ## Week 9
 October 16, 2023
-
+- 🕸️ Directed Acyclic Graph for Data Lineage Management
+  
 ## Week 10
 October 23, 2023
+- 📝 Text Label Visualizer
 
+  
 ## 🔌💡 Additional Plugin Ideas
-
-- ❔ Visual Question Answering!
-- 🪞 Image deduplication
-- 🔧 Plugin-builder
 - 🚀 Getting Started Workflow
 - 📥 Plugin Installer
-- 🎥 YouTube video player
 - 🏷️ Label Importer
 - 🌊 Drift Detection
 - ❗ Outlier Detection
 - 🏃 Active Learning
-- 📝 Text Label Visualizer
 - 🖍️ Pre-labeling
-- 🔑 Keyword Search
 - 🔍 Hybrid (semantic + keyword) search
 
 
