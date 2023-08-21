@@ -30,7 +30,7 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 
 This section consists of plugins that I built before the 10-weeks-of-plugins journey began. Consider it an added bonus!
 
-- 🌩️ [Image Quality Issues](https://github.com/jacobmarks/image-quality-issues/tree/main)
+- 🌩️ [Image Quality Issues](https://github.com/jacobmarks/image-quality-issues)
 - 📈 [Concept Interpolation](https://github.com/jacobmarks/concept-interpolation)
 
 ## Week 1
