@@ -36,7 +36,7 @@ This section consists of plugins that I built before the 10-weeks-of-plugins jou
 ## Week 1
 August 21, 2023
 
-- 🎨 AI Art Gallery
+- 🎨 [AI Art Gallery](https://github.com/jacobmarks/ai-art-gallery)
 
 ## Week 2
 August 28, 2023
