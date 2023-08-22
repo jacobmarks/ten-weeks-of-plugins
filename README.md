@@ -8,10 +8,9 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 
 **Already Happened**
 - [Week 0](#week-0)
-
+- [Week 1](#week-1)
 
 **Yet to Happen**
-- [Week 1](#week-1)
 - [Week 2](#week-2)
 - [Week 3](#week-3)
 - [Week 4](#week-4)
