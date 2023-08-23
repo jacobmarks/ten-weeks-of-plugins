@@ -51,11 +51,12 @@ September 11, 2023
 
 ## Week 5
 September 18, 2023
-- 🎭 Zero-shot instance segmentation
+- 🔑 Keyword Search
+- 👓 Optical Character Recognition
 
 ## Week 6
 September 25, 2023
-- 🔑 Keyword Search
+- 🎭 Zero-shot instance segmentation
 
 ## Week 7
 October 02, 2023
