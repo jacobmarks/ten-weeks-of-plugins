@@ -1,4 +1,5 @@
-# 10 Weeks of Plugins
+# <img src="https://gist.githubusercontent.com/jacobmarks/eb18cc90596f7310e4dad1be2526c070/raw/e05e51be697a9501f64fe8d1b7008fc5ebe56369/fiftyone_icon.svg" width="30" height="30" alt="twilio icon"> 10 Weeks of Plugins <img src="https://gist.githubusercontent.com/jacobmarks/eb18cc90596f7310e4dad1be2526c070/raw/e05e51be697a9501f64fe8d1b7008fc5ebe56369/fiftyone_icon.svg" width="30" height="30" alt="twilio icon">
+
 
 🚀🚀🚀 Welcome to my journey of building FiftyOne Plugins for 10 weeks! 🚀🚀🚀
 
