@@ -36,6 +36,7 @@ This section consists of plugins that I built before the 10-weeks-of-plugins jou
 August 21, 2023
 
 - 🎨 [AI Art Gallery](https://github.com/jacobmarks/ai-art-gallery)
+- <img src="https://gist.githubusercontent.com/jacobmarks/7f5cb43ede35691f11975ab22c03e7f1/raw/05d40289773629d465a4656db4e1d610971d2a0e/twilio_icon.svg" width="14" height="14" alt="twilio icon"> [Twilio Automation](https://github.com/jacobmarks/twilio-automation-plugin)
 
 ## Week 2
 August 28, 2023
