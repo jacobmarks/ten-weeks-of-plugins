@@ -41,7 +41,7 @@ August 21, 2023
 
 ## Week 2
 August 28, 2023
-- ❓ Visual Question Answering
+- ❓[Visual Question Answering](https://github.com/jacobmarks/vqa-plugin)
 
 ## Week 3
 September 04, 2023
