@@ -11,9 +11,9 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 0](#week-0)
 - [Week 1](#week-1)
 - [Week 2](#week-2)
-- 
-**Yet to Happen**
 - [Week 3](#week-3)
+
+**Yet to Happen**
 - [Week 4](#week-4)
 - [Week 5](#week-5)
 - [Week 6](#week-6)
@@ -45,7 +45,7 @@ August 28, 2023
 
 ## Week 3
 September 04, 2023
-- 🎥 YouTube video player
+- 🎥 [YouTube Video Player](https://github.com/jacobmarks/fiftyone-youtube-panel-plugin/)
 
 ## Week 4
 September 11, 2023
