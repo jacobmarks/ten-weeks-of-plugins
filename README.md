@@ -58,7 +58,7 @@ September 18, 2023
 
 ## Week 6
 September 25, 2023
-- 🎭 Zero-shot instance segmentation
+- 🎭 Zero-shot prediction
 
 ## Week 7
 October 02, 2023
@@ -74,18 +74,18 @@ October 16, 2023
   
 ## Week 10
 October 23, 2023
-- 📝 Text Label Visualizer
+- 🌊 Drift Detection
 
   
 ## 🔌💡 Additional Plugin Ideas
 - 🚀 Getting Started Workflow
 - 📥 Plugin Installer
 - 🏷️ Label Importer
-- 🌊 Drift Detection
 - ❗ Outlier Detection
 - 🏃 Active Learning
 - 🖍️ Pre-labeling
 - 🔍 Hybrid (semantic + keyword) search
+- 🤿 Mask smoothing routines
 
 
 **Contribute 💡 Ideas** : Feel free to submit a PR or Issue, or message me directly if you have more ideas for plugins!
