@@ -12,9 +12,9 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 1](#week-1)
 - [Week 2](#week-2)
 - [Week 3](#week-3)
+- [Week 4](#week-4)
 
 **Yet to Happen**
-- [Week 4](#week-4)
 - [Week 5](#week-5)
 - [Week 6](#week-6)
 - [Week 7](#week-7)
@@ -49,7 +49,7 @@ September 04, 2023
 
 ## Week 4
 September 11, 2023
-- 🪞 Image deduplication
+- 🪞 [Image deduplication](https://github.com/jacobmarks/image-deduplication-plugin)
 
 ## Week 5
 September 18, 2023
