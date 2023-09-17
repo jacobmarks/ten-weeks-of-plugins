@@ -62,19 +62,20 @@ September 25, 2023
 
 ## Week 7
 October 02, 2023
--  🌌 Traversing Embedding Space
+- 🔧 Plugin-builder
 
 ## Week 8
 October 09, 2023
-- 🔧 Plugin-builder
+- 🏃 Active Learning
 
 ## Week 9
 October 16, 2023
-- 🕸️ Directed Acyclic Graph for Data Lineage Management
+- 🤿 Mask smoothing routines
   
 ## Week 10
 October 23, 2023
-- 🌊 Drift Detection
+-  🌌 Traversing Embedding Space
+
 
   
 ## 🔌💡 Additional Plugin Ideas
@@ -82,10 +83,10 @@ October 23, 2023
 - 📥 Plugin Installer
 - 🏷️ Label Importer
 - ❗ Outlier Detection
-- 🏃 Active Learning
+- 🕸️ Directed Acyclic Graph for Data Lineage Management
 - 🖍️ Pre-labeling
 - 🔍 Hybrid (semantic + keyword) search
-- 🤿 Mask smoothing routines
+- - 🌊 Drift Detection
 
 
 **Contribute 💡 Ideas** : Feel free to submit a PR or Issue, or message me directly if you have more ideas for plugins!
