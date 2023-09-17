@@ -86,7 +86,7 @@ October 23, 2023
 - 🕸️ Directed Acyclic Graph for Data Lineage Management
 - 🖍️ Pre-labeling
 - 🔍 Hybrid (semantic + keyword) search
-- - 🌊 Drift Detection
+- 🌊 Drift Detection
 
 
 **Contribute 💡 Ideas** : Feel free to submit a PR or Issue, or message me directly if you have more ideas for plugins!
