@@ -13,9 +13,9 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 2](#week-2)
 - [Week 3](#week-3)
 - [Week 4](#week-4)
+- [Week 5](#week-5)
 
 **Yet to Happen**
-- [Week 5](#week-5)
 - [Week 6](#week-6)
 - [Week 7](#week-7)
 - [Week 8](#week-8)
@@ -53,8 +53,8 @@ September 11, 2023
 
 ## Week 5
 September 18, 2023
-- 🔑 Keyword Search
-- 👓 Optical Character Recognition
+- 🔑 [Keyword Search](https://github.com/jacobmarks/keyword-search-plugin)
+- 👓 [Optical Character Recognition](https://github.com/jacobmarks/pytesseract-ocr-plugin)
 
 ## Week 6
 September 25, 2023
@@ -84,7 +84,6 @@ October 23, 2023
 - 🏷️ Label Importer
 - ❗ Outlier Detection
 - 🕸️ Directed Acyclic Graph for Data Lineage Management
-- 🖍️ Pre-labeling
 - 🔍 Hybrid (semantic + keyword) search
 - 🌊 Drift Detection
 
