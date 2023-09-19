@@ -62,19 +62,19 @@ September 25, 2023
 
 ## Week 7
 October 02, 2023
-- 🔧 Plugin-builder
+- 🏃 Active Learning
 
 ## Week 8
 October 09, 2023
-- 🏃 Active Learning
+- ⏪ Reverse Image Search
 
 ## Week 9
 October 16, 2023
-- 🤿 Mask smoothing routines
-  
+-  🌌 Traversing Embedding Space
+
 ## Week 10
 October 23, 2023
--  🌌 Traversing Embedding Space
+- 🔧 Plugin-builder
 
 
   
@@ -83,6 +83,7 @@ October 23, 2023
 - 📥 Plugin Installer
 - 🏷️ Label Importer
 - ❗ Outlier Detection
+- 🤿 Mask smoothing routines
 - 🕸️ Directed Acyclic Graph for Data Lineage Management
 - 🔍 Hybrid (semantic + keyword) search
 - 🌊 Drift Detection
