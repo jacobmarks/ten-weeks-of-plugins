@@ -30,31 +30,33 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 
 This section consists of plugins that I built before the 10-weeks-of-plugins journey began. Consider it an added bonus!
 
-- 🌩️ [Image Quality Issues](https://github.com/jacobmarks/image-quality-issues)
-- 📈 [Concept Interpolation](https://github.com/jacobmarks/concept-interpolation)
+
+
+- 🌩️ [Image Quality Issues](https://github.com/jacobmarks/image-quality-issues) [![Image Quality Issues](https://img.shields.io/github/stars/jacobmarks/image-quality-issues?style=social)](https://github.com/jacobmarks/image-quality-issues)
+- 📈 [Concept Interpolation](https://github.com/jacobmarks/concept-interpolation) [![Concept Interpolation](https://img.shields.io/github/stars/jacobmarks/concept-interpolation?style=social)](https://github.com/jacobmarks/concept-interpolation)
 
 ## Week 1
 August 21, 2023
 
-- 🎨 [AI Art Gallery](https://github.com/jacobmarks/ai-art-gallery)
-- <img src="https://gist.githubusercontent.com/jacobmarks/7f5cb43ede35691f11975ab22c03e7f1/raw/05d40289773629d465a4656db4e1d610971d2a0e/twilio_icon.svg" width="14" height="14" alt="twilio icon"> [Twilio Automation](https://github.com/jacobmarks/twilio-automation-plugin)
+- 🎨 [AI Art Gallery](https://github.com/jacobmarks/ai-art-gallery) [![AI Art Gallery](https://img.shields.io/github/stars/jacobmarks/ai-art-gallery?style=social)](https://github.com/jacobmarks/ai-art-gallery)
+- <img src="https://gist.githubusercontent.com/jacobmarks/7f5cb43ede35691f11975ab22c03e7f1/raw/05d40289773629d465a4656db4e1d610971d2a0e/twilio_icon.svg" width="14" height="14" alt="twilio icon"> [Twilio Automation](https://github.com/jacobmarks/twilio-automation-plugin) [![Twilio Automation](https://img.shields.io/github/stars/jacobmarks/twilio-automation-plugin?style=social)](https://github.com/jacobmarks/twilio-automation-plugin)
 
 ## Week 2
 August 28, 2023
-- ❓[Visual Question Answering](https://github.com/jacobmarks/vqa-plugin)
+- ❓[Visual Question Answering](https://github.com/jacobmarks/vqa-plugin) [![Visual Question Answering](https://img.shields.io/github/stars/jacobmarks/vqa-plugin?style=social)](https://github.com/jacobmarks/vqa-plugin)
 
 ## Week 3
 September 04, 2023
-- 🎥 [YouTube Video Player](https://github.com/jacobmarks/fiftyone-youtube-panel-plugin/)
+- 🎥 [YouTube Video Player](https://github.com/jacobmarks/fiftyone-youtube-panel-plugin/) [![YouTube Video Player](https://img.shields.io/github/stars/jacobmarks/fiftyone-youtube-panel-plugin?style=social)](https://github.com/jacobmarks/fiftyone-youtube-panel-plugin)
 
 ## Week 4
 September 11, 2023
-- 🪞 [Image deduplication](https://github.com/jacobmarks/image-deduplication-plugin)
+- 🪞 [Image deduplication](https://github.com/jacobmarks/image-deduplication-plugin) [![Image deduplication](https://img.shields.io/github/stars/jacobmarks/image-deduplication-plugin?style=social)](https://github.com/jacobmarks/image-deduplication-plugin)
 
 ## Week 5
 September 18, 2023
-- 🔑 [Keyword Search](https://github.com/jacobmarks/keyword-search-plugin)
-- 👓 [Optical Character Recognition](https://github.com/jacobmarks/pytesseract-ocr-plugin)
+- 🔑 [Keyword Search](https://github.com/jacobmarks/keyword-search-plugin) [![Keyword Search](https://img.shields.io/github/stars/jacobmarks/keyword-search-plugin?style=social)](https://github.com/jacobmarks/keyword-search-plugin)
+- 👓 [Optical Character Recognition](https://github.com/jacobmarks/pytesseract-ocr-plugin) [![Optical Character Recognition](https://img.shields.io/github/stars/jacobmarks/pytesseract-ocr-plugin?style=social)](https://github.com/jacobmarks/pytesseract-ocr-plugin)
 
 ## Week 6
 September 25, 2023
