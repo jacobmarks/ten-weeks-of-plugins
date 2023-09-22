@@ -79,14 +79,21 @@ October 23, 2023
 
   
 ## 🔌💡 Additional Plugin Ideas
+- 🌊 Drift Detection
+- ❗ Outlier Detection
+- 🤿 Mask smoothing routines
+- 🎥 Semantic Video Search (Twelve Labs Integration)
+- 😵‍💫 Facial Blurring Thumbnails
+- 🗺️ GIS Integration (Pull in data from Open Street Maps)
+- 👤 Image Matting (with [ViTMatte](https://huggingface.co/docs/transformers/main/model_doc/vitmatte#vitmatte))
 - 🚀 Getting Started Workflow
 - 📥 Plugin Installer
 - 🏷️ Label Importer
-- ❗ Outlier Detection
-- 🤿 Mask smoothing routines
+
+
 - 🕸️ Directed Acyclic Graph for Data Lineage Management
 - 🔍 Hybrid (semantic + keyword) search
-- 🌊 Drift Detection
+
 
 
 **Contribute 💡 Ideas** : Feel free to submit a PR or Issue, or message me directly if you have more ideas for plugins!
