@@ -14,9 +14,9 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 3](#week-3)
 - [Week 4](#week-4)
 - [Week 5](#week-5)
+- [Week 6](#week-6)
 
 **Yet to Happen**
-- [Week 6](#week-6)
 - [Week 7](#week-7)
 - [Week 8](#week-8)
 - [Week 9](#week-9)
@@ -60,7 +60,7 @@ September 18, 2023
 
 ## Week 6
 September 25, 2023
-- 🎭 Zero-shot prediction
+- 🎭 [Zero-shot prediction](https://github.com/jacobmarks/zero-shot-prediction-plugin) [![Zero-shot prediction](https://img.shields.io/github/stars/jacobmarks/zero-shot-prediction-plugin?style=social)](https://github.com/jacobmarks/zero-shot-prediction-plugin)
 
 ## Week 7
 October 02, 2023
