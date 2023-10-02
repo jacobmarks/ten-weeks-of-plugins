@@ -15,9 +15,9 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 4](#week-4)
 - [Week 5](#week-5)
 - [Week 6](#week-6)
+- [Week 7](#week-7)
 
 **Yet to Happen**
-- [Week 7](#week-7)
 - [Week 8](#week-8)
 - [Week 9](#week-9)
 - [Week 10](#week-10)
@@ -64,7 +64,7 @@ September 25, 2023
 
 ## Week 7
 October 02, 2023
-- 🏃 Active Learning
+- 🏃 [Active Learning](https://github.com/jacobmarks/active-learning-plugin) [![Active Learning](https://img.shields.io/github/stars/jacobmarks/active-learning-plugin?style=social)](https://github.com/jacobmarks/active-learning-plugin)
 
 ## Week 8
 October 09, 2023
