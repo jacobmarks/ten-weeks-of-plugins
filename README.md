@@ -16,9 +16,9 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 5](#week-5)
 - [Week 6](#week-6)
 - [Week 7](#week-7)
+- [Week 8](#week-8)
 
 **Yet to Happen**
-- [Week 8](#week-8)
 - [Week 9](#week-9)
 - [Week 10](#week-10)
 
@@ -68,7 +68,7 @@ October 02, 2023
 
 ## Week 8
 October 09, 2023
-- ⏪ Reverse Image Search
+- ⏪ [Reverse Image Search](https://github.com/jacobmarks/reverse-image-search-plugin) [![Reverse Image Search](https://img.shields.io/github/stars/jacobmarks/reverse-image-search-plugin?style=social)](https://github.com/jacobmarks/reverse-image-search-plugin)
 
 ## Week 9
 October 16, 2023
