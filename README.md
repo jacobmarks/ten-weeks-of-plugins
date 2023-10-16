@@ -17,9 +17,9 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 6](#week-6)
 - [Week 7](#week-7)
 - [Week 8](#week-8)
+- [Week 9](#week-9)
 
 **Yet to Happen**
-- [Week 9](#week-9)
 - [Week 10](#week-10)
 
 **Additional**
@@ -72,7 +72,7 @@ October 09, 2023
 
 ## Week 9
 October 16, 2023
--  🌌 Traversing Embedding Space
+- 🌌 [Traversing Concept Space](https://github.com/jacobmarks/concept-space-traversal-plugin) [![Traversing Concept Space](https://img.shields.io/github/stars/jacobmarks/concept-space-traversal-plugin?style=social)](https://github.com/jacobmarks/concept-space-traversal-plugin)
 
 ## Week 10
 October 23, 2023
