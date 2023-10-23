@@ -3,11 +3,10 @@
 
 🚀🚀🚀 Welcome to my journey of building FiftyOne Plugins for 10 weeks! 🚀🚀🚀
 
-This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built or plan to build
+This repo contains a week-by-week breakdown of the FiftyOne Plugins I built from August to October 2023
 
 ## Table of Contents
 
-**Already Happened**
 - [Week 0](#week-0)
 - [Week 1](#week-1)
 - [Week 2](#week-2)
@@ -18,8 +17,6 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 - [Week 7](#week-7)
 - [Week 8](#week-8)
 - [Week 9](#week-9)
-
-**Yet to Happen**
 - [Week 10](#week-10)
 
 **Additional**
@@ -29,8 +26,6 @@ This repo contains a week-by-week breakdown of the FiftyOne Plugins I have built
 ## Week 0
 
 This section consists of plugins that I built before the 10-weeks-of-plugins journey began. Consider it an added bonus!
-
-
 
 - 🌩️ [Image Quality Issues](https://github.com/jacobmarks/image-quality-issues) [![Image Quality Issues](https://img.shields.io/github/stars/jacobmarks/image-quality-issues?style=social)](https://github.com/jacobmarks/image-quality-issues)
 - 📈 [Concept Interpolation](https://github.com/jacobmarks/concept-interpolation) [![Concept Interpolation](https://img.shields.io/github/stars/jacobmarks/concept-interpolation?style=social)](https://github.com/jacobmarks/concept-interpolation)
@@ -72,13 +67,15 @@ October 09, 2023
 
 ## Week 9
 October 16, 2023
-- 🌌 [Traversing Concept Space](https://github.com/jacobmarks/concept-space-traversal-plugin) [![Traversing Concept Space](https://img.shields.io/github/stars/jacobmarks/concept-space-traversal-plugin?style=social)](https://github.com/jacobmarks/concept-space-traversal-plugin)
+- 🌌 [Traversing Concept Space](https://github.com/jacobmarks/concept-space-traversal-plugin) [![Traversing Concept Space](https://img.shields.io/github/stars/jacobmarks/concept-space-traversal-plugin?style=social)](https://github.com/jacobmarks/concept-space-traversal-plugin) [*Joint effort with Ibrahim Manjra*]
 
 ## Week 10
 October 23, 2023
-- 🔧 Plugin-builder
+- 🔧 [Plugin Management and Creation](https://github.com/voxel51/fiftyone-plugins/tree/main/plugins/plugins) [![Plugin Management and Creation](https://img.shields.io/github/stars/voxel51/fiftyone-plugins?style=social)](https://github.com/voxel51/fiftyone-plugins/tree/main/plugins/plugins) [*Joint effort with Brian Moore*]
 
-
+## ✨ Bonus Plugins
+- 🔊 [Audio-to-image Retrieval](https://github.com/jacobmarks/audio-retrieval-plugin) [![Audio-to-image Retrieval](https://img.shields.io/github/stars/jacobmarks/audio-retrieval-plugin?style=social)](https://github.com/jacobmarks/audio-retrieval-plugin)
+- 🔍 [Semantic Document Search](https://github.com/jacobmarks/semantic-document-search-plugin) [![Semantic Document Search](https://img.shields.io/github/stars/jacobmarks/semantic-document-search-plugin?style=social)](https://github.com/jacobmarks/semantic-document-search-plugin)
   
 ## 🔌💡 Additional Plugin Ideas
 - 🌊 Drift Detection
