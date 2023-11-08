@@ -77,6 +77,7 @@ October 23, 2023
 - 🔊 [Audio-to-image Retrieval](https://github.com/jacobmarks/audio-retrieval-plugin) [![Audio-to-image Retrieval](https://img.shields.io/github/stars/jacobmarks/audio-retrieval-plugin?style=social)](https://github.com/jacobmarks/audio-retrieval-plugin)
 - 🔍 [Semantic Document Search](https://github.com/jacobmarks/semantic-document-search-plugin) [![Semantic Document Search](https://img.shields.io/github/stars/jacobmarks/semantic-document-search-plugin?style=social)](https://github.com/jacobmarks/semantic-document-search-plugin)
 - <img src="https://raw.githubusercontent.com/voxel51/voxelgpt/main/assets/icon-dark.svg" width="14" height="14" alt="gpt icon"> [GPT-4 Vision](https://github.com/jacobmarks/gpt4-vision-plugin) [![GPT-4 Vision](https://img.shields.io/github/stars/jacobmarks/gpt4-vision-plugin?style=social)](https://github.com/jacobmarks/gpt4-vision-plugin)
+- <img src="https://raw.githubusercontent.com/jacobmarks/double-band-filter-plugin/main/assets/icon.svg" width="14" height="14" alt="gpt icon"> [Double Band Filter](https://github.com/jacobmarks/double-band-filter-plugin) [![Double Band Filter](https://img.shields.io/github/stars/jacobmarks/double-band-filter-plugin?style=social)](https://github.com/jacobmarks/double-band-filter-plugin)
   
 ## 🔌💡 Additional Plugin Ideas
 - 🌊 Drift Detection
