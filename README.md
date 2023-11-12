@@ -5,24 +5,6 @@
 
 This repo contains a week-by-week breakdown of the FiftyOne Plugins I built from August to October 2023
 
-## Table of Contents
-
-- [Week 0](#week-0)
-- [Week 1](#week-1)
-- [Week 2](#week-2)
-- [Week 3](#week-3)
-- [Week 4](#week-4)
-- [Week 5](#week-5)
-- [Week 6](#week-6)
-- [Week 7](#week-7)
-- [Week 8](#week-8)
-- [Week 9](#week-9)
-- [Week 10](#week-10)
-
-**Additional**
-- [Plugin Ideas](#-plugin-ideas)
-- [Resources](#-resources)
-
 ## Week 0
 
 This section consists of plugins that I built before the 10-weeks-of-plugins journey began. Consider it an added bonus!
